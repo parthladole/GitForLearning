@@ -1,0 +1,4 @@
+*.log
+/faltu/
+statics/faltu
+README.md
